@@ -2,7 +2,7 @@
 
 **Go · Node.js · React/Next.js · PostgreSQL · Redis · AWS/GCP · CI/CD · LLMs**
 
-I build scalable SaaS platforms, real-time APIs, and integrations. Focused on clean architecture, observability, and fast delivery.
+I build scalable SaaS platforms, real-time APIs, and integrations. Focused on clean architecture and fast delivery.
 
 - **Backend:** Go (Gin, GORM), Node.js (REST/GraphQL, tRPC), WebSockets
 - **Frontend:** React, Next.js, TypeScript, Tailwind
