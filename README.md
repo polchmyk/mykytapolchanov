@@ -1,3 +1,5 @@
+![image]<img width="1000" height="300" alt="3d-abstract-technology-background-with-flowing-data-waves 1" src="https://github.com/user-attachments/assets/7cee07c4-f4ed-4a2c-99eb-c5245588b30d" />
+
 # Hi, I'm Mykyta - Senior Backend & Full-Stack Developer
 
 **Go · Node.js · React/Next.js · PostgreSQL · Redis · AWS/GCP · CI/CD · LLMs**
